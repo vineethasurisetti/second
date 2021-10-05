@@ -1,0 +1,2 @@
+i am vineetha>doc.txt
+echo i am vineetha
